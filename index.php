@@ -5,7 +5,7 @@
 <h1 align="center"> 『WELCOME TO OUR WEBPAGE:)』</h1>
 
 
-<body bgcolor="#7F7D9C">
+<body background="wnw.jpg">
 <center>
 <font face="Tahoma"> <u> CHOOSE THE CHOSEN SUBJECT BELOW ↓ </u> </font>
 </center>
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<p align="center">
+<p align="center"> 
 <table border="3" background="kmg.gif" cellspacing="20" cellpadding="25">
 <tr>
 	<td bgcolor="#ADADC9"> SUBJECT: <br> <center> <font size="5"> <font face="Courier"> <b> <u>  MATH </font> </b> </u> </center> </td>
