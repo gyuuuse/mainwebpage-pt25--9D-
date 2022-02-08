@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-<table border="3" background="olc.gif" cellspacing="20" cellpadding="25">
+<table border="3" bgcolor="232023" cellspacing="20" cellpadding="25">
 <tr>
 	<td bgcolor="#ADADC9"> SUBJECT: <br> <center> <font size="5"> <font face="Courier"> <b> <u> CAE </font> </b> </u> </center> </td>
 	<td bgcolor="#ADADC9" rowspan="3"> PREVIEW </td>
@@ -54,7 +54,7 @@
 <br>
 
 <p align="center">
-<table border="3" background="ver.gif" cellspacing="20" cellpadding="25">
+<table border="3" cellspacing="20" cellpadding="25" background="ver.gif">
 <tr>
 	<td bgcolor="#ADADC9"> SUBJECT: <br> <center> <font size="5"> <font face="Courier"> <b> <u> CLE </font> </b> </u> </center> </td>
 	<td bgcolor="#ADADC9" rowspan="3"> PREVIEW </td>
