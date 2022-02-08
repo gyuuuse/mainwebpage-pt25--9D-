@@ -5,7 +5,7 @@
 <h1 align="center"> 『WELCOME TO OUR WEBPAGE:)』</h1>
 
 
-<body bgcolor="#232023">
+<body bgcolor="#696880">
 <center>
 <font face="Tahoma"> <u> CHOOSE THE CHOSEN SUBJECT BELOW ↓ </u> </font>
 </center>
