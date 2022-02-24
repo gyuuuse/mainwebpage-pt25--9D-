@@ -25,7 +25,7 @@
 </tr>
 
 <tr>
-	<td bgcolor="#ADADC9"> click the link → <a href="Math 9 (3rd Quarter).html"> MATH 9 PT (3rd Quarter) </a> </td>
+	<td bgcolor="#ADADC9"> click the link → <a href="MATH 9 (3rd Quarter).html"> MATH 9 PT (3rd Quarter) </a> </td>
 </tr>
 </table>
 </p>
