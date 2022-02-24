@@ -7,7 +7,7 @@
 
 <body background="wnw.jpg">
 <center>
-<font face="Tahoma"> <u> CHOOSE THE CHOSEN SUBJECT BELOW ↓ </u> </font>
+<font face="Tahoma"> <u> CHOOSE YOUR CHOSEN SUBJECT BELOW ↓ </u> </font>
 </center>
 
 <br>
@@ -17,7 +17,7 @@
 <table border="3" background="kmg.gif" cellspacing="20" cellpadding="25">
 <tr>
 	<td bgcolor="#ADADC9"> SUBJECT: <br> <center> <font size="5"> <font face="Courier"> <b> <u>  MATH </font> </b> </u> </center> </td>
-	<td bgcolor="#ADADC9" rowspan="3"> PREVIEW </td>
+	<td bgcolor="#ADADC9" rowspan="3"> <b> <p align="center"> 3RD QUARTER: <br> MAJOR PT <br> <br> MESSAGE OF <br> HOPE </b> </p>  </td>
 </tr>
 
 <tr>
@@ -37,7 +37,7 @@
 <table border="3" background="olc.gif" cellspacing="20" cellpadding="25">
 <tr>
 	<td bgcolor="#ADADC9"> SUBJECT: <br> <center> <font size="5"> <font face="Courier"> <b> <u> CAE </font> </b> </u> </center> </td>
-	<td bgcolor="#ADADC9" rowspan="3"> PREVIEW </td>
+	<td bgcolor="#ADADC9" rowspan="3"> <p align="center"> <b> 3RD QUARTER: <br> MAJOR PT <br> <br> CRITIQUE PAPER </b> <br> "Grit: The Strongest <br> Predictor of <br> Success" </p> </td>
 </tr>
 
 <tr>
@@ -57,7 +57,7 @@
 <table border="3" background="ver.gif" cellspacing="20" cellpadding="25">
 <tr>
 	<td bgcolor="#ADADC9"> SUBJECT: <br> <center> <font size="5"> <font face="Courier"> <b> <u> CLE </font> </b> </u> </center> </td>
-	<td bgcolor="#ADADC9" rowspan="3"> PREVIEW </td>
+	<td bgcolor="#ADADC9" rowspan="3"> <p align="center"> <b> 3RD QUARTER: <br> MAJOR PT <br> <br> DIGITAL CREATIVE <br> JOURNAL </b> <br> "Domestic Violence" </p> </td>
 </tr>
 
 <tr>
